@@ -1,1 +1,1 @@
-package mainPackage;public class NewClass{	public static void main(String[] args){		System.out.println("This is the New Class.");	}}
+package mainPackage;public class NewClass{	public static void main(String[] args){		System.out.println("This is the New Class. And Now this is changed in eclipse!");	}}
